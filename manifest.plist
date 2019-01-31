@@ -13,6 +13,17 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/jimmypod96/GGWIN_APP/master/优游演示.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/Logo/YS.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/jayce-it/AppDownload/master/Logo/YS.png</string>
 			</array>
 			<key>metadata</key>
 			<dict>
